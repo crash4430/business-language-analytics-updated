@@ -1,0 +1,61 @@
+{
+  "dataset": "abcd project record",
+  "licence": "MIT (Copyright 2026 Alex Reppel)",
+  "source": "https://github.com/intentdriven/abcd",
+  "tag": "v0.8.0",
+  "commit": "514ea960df933c64f216d4139bc96ef5f0ae5bb6",
+  "export": "built from record files",
+  "fetched_at": "2026-10-15T16:27:38+00:00",
+  "tables": {
+    "issues": {
+      "file": "issues.csv.gz",
+      "rows": 1327,
+      "sha256": "a9035c8dd4b52d512fc6b60ba0bb18b26f15ceabdc7e25db4d8323f6205f90ce"
+    },
+    "intents": {
+      "file": "intents.csv.gz",
+      "rows": 195,
+      "sha256": "9e8c7bb8f5e82e504075a768fbfaa42a16168225309ad215c8606e871465edc5"
+    },
+    "specs": {
+      "file": "specs.csv.gz",
+      "rows": 81,
+      "sha256": "3f750532c258d856a3e67a523087cbbac87bb5b8749eb768b801f045b47ea7dd"
+    },
+    "decisions": {
+      "file": "decisions.csv.gz",
+      "rows": 59,
+      "sha256": "9087e8783c43f9ca4f7d6247a0f0d10b39639b93b6c276e31baa4e6e27c1db15"
+    },
+    "releases": {
+      "file": "releases.csv.gz",
+      "rows": 21,
+      "sha256": "4e08220233e58c69259eccba3dc125f74423620fd4abd37b7c789e73f0158c74"
+    },
+    "commits": {
+      "file": "commits.csv.gz",
+      "rows": 2993,
+      "sha256": "57ade36d86affcfe088f4dd30f0b0b6a66a2b0b9744a12a06700bfe77b982eec"
+    },
+    "commit_files": {
+      "file": "commit_files.csv.gz",
+      "rows": 11888,
+      "sha256": "6de5d674aef87b93b7c77bed3e89dc26fa12a583fbac9d688a63455b89cea143"
+    },
+    "nodes": {
+      "file": "nodes.csv.gz",
+      "rows": 1662,
+      "sha256": "fcb29a06bf8cb47f4af97f37449f3a011fdd8b1490a763615bfda60161454848"
+    },
+    "edges": {
+      "file": "edges.csv.gz",
+      "rows": 261,
+      "sha256": "b6a69802ec5e7a3541a5ee5ab39ac3ba58ae11e52c470b62fdfc571a7c165565"
+    },
+    "mentions": {
+      "file": "mentions.csv.gz",
+      "rows": 3006,
+      "sha256": "80decf8a8b5f15f07e2f350424f351f9b03b7ff5130ad90de0503fae4f281727"
+    }
+  }
+}
